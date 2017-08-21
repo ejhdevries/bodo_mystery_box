@@ -1,0 +1,8 @@
+name: ${project.artifactId}
+main: me.lt_col_bodo.bodo_mystery_box.mystery_box
+version: ${project.version}
+author: Lt_Col_Bodo
+command:
+    hallo:
+        description: Zeg hallo en hij reageert terug
+        usage: /<command>
