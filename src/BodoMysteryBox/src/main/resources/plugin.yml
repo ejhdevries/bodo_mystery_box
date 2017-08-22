@@ -1,0 +1,8 @@
+name: bodo_mystery_box
+main: me.lt_col_bodo.bodo_mystery_box.mystery_box
+version: 1.0
+author: Lt_Col_Bodo
+commands:
+    mysterybox:
+        description: This command will give you a mystery box
+        use: /<command>
