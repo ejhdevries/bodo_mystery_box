@@ -1,8 +1,0 @@
-name: bodo_mystery_box
-main: me.lt_col_bodo.bodo_mystery_box.mystery_box
-version: 1.0-SNAPSHOT
-author: Lt_Col_Bodo
-command:
-    hallo:
-        description: Zeg hallo en hij reageert terug
-        usage: /<command>
